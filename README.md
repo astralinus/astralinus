@@ -21,8 +21,6 @@ Tenho experiência em várias tecnologias e estou constantemente expandindo minh
 
 ## 🎓 Formação Acadêmica - [Cursando]
 - **Análise e Desenvolvimento de Sistemas** - [Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile)
-- **Cibersegurança - Pentest** - [Desec Security](https://desecsecurity.com/cursos)
-- **Cibersegurança** - [Hackone](https://hackone.com.br/trilha-ciberseguranca)
 - **Ignite (React, ReactNative e NodeJS)** - [Rocketseat](https://www.rocketseat.com.br/)
 
 ## 💼 Projetos e Colaborações
