@@ -9,8 +9,7 @@ Tenho experiência em várias tecnologias e estou constantemente expandindo minh
   - CSS
   - JavaScript
 - **Back-end:**
-  - NodeJS
-  - PHP
+  - 
 ## 🎓 Formação Acadêmica - [Cursando]
 
 - **Análise e Desenvolvimento de Sistemas** - [Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile)
